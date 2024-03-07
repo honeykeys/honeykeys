@@ -4,7 +4,7 @@
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-orange?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=honeykeys&style=flat-square&color=blue" alt="Profile View Counter"/>
   </a>
 </div>
 <!--
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=honeykeys)
+\
