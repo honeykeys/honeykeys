@@ -1,4 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/sQWrKk72WghSDOWXhs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fun-crazy-mad-sQWrKk72WghSDOWXhs">via GIPHY</a></p>
+<div id="header" align="center>
+  <img src =https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlkZDMxa3h4ZmxtMnpycHU5bmg2bjBqdjdhZndlZDZuaXQ0aTdxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQWrKk72WghSDOWXhs/giphy.gif>
+</div>
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
