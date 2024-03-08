@@ -1,3 +1,5 @@
+# Karl Nuyda
+
 Hello 👋. I'm a London-based Full-stack and Mobile Developer.
 
 💻 I am currently working on personal projects for 📱 mobile and 🕸️ web.
@@ -10,6 +12,6 @@ Hello 👋. I'm a London-based Full-stack and Mobile Developer.
 
 ☕ My first programming language was Java.
 
-
+Reach me on 
 
 
