@@ -1,6 +1,6 @@
 # Karl Nuyda
 
-Hello 👋. I'm a London-based Full-stack and Mobile Developer.
+## Hello 👋. I'm a London-based Full-stack and Mobile Developer.
 
 💻 I am currently working on personal projects for 📱 mobile and 🕸️ web.
 
