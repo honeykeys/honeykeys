@@ -1,4 +1,6 @@
-#![selfportrait](https://github.com/honeykeys/honeykeys/assets/73562496/86758134-7bb4-4a7e-8a3c-6e847da0e6b5)
+<div id ="header" align="center">
+<img src ="https://github.com/honeykeys/honeykeys/assets/73562496/86758134-7bb4-4a7e-8a3c-6e847da0e6b5" width="100"/>
+
  Karl Nuyda
 
 <a href="your-linkedin-URL">
