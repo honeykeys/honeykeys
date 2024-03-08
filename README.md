@@ -1,4 +1,5 @@
-# Karl Nuyda
+#![selfportrait](https://github.com/honeykeys/honeykeys/assets/73562496/86758134-7bb4-4a7e-8a3c-6e847da0e6b5)
+ Karl Nuyda
 
 <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
