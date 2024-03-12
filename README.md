@@ -20,8 +20,10 @@ Hello 👋. I'm a London-based Full-stack and Mobile Developer.
 
 🖋️ I am write novels as a hobby. A few of my projects are focused on supporting writers.
 
-☕ My first programming language was Java, which is probably why I enjoy working in Kotlin 💙.
+☕ My first programming language was Java.
 
-Reach me on 
+Reach me on <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 
