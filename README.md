@@ -12,7 +12,7 @@ Hello 👋. I'm a London-based Full-stack and Mobile Developer.
 
 🌴 I hail from the San Francisco Bay Area but am based in London 🏴󠁧󠁢󠁥󠁮󠁧󠁿.
 
-📄 I create technical instruction content, especially for Native Android.
+📄 I create technical instruction content for Native Android.
 
 🚌 I have seven years of sales experience in FinTech and EdTech startups.
 
