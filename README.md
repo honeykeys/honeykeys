@@ -3,7 +3,7 @@
 
 Karl Nuyda
 
-Just a Friendly Neighborhood Software Engineer 
+Just Your Friendly Neighborhood Software Engineer :wave:
 
 ### 👨‍💻 About Me
 
