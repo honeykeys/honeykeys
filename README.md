@@ -3,7 +3,7 @@
 
 Karl Nuyda
 
-Just Your Friendly Neighborhood Software Engineer :wave:
+Software Engineer 💻, Amateur Poet 🖋️, Home Chef 🧑‍🍳, Ex-Salesperson 💼 
 
 ### 👨‍💻 About Me
 
