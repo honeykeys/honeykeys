@@ -1,18 +1,15 @@
 <div id ="header" align="center">
 <img src ="https://github.com/honeykeys/honeykeys/assets/73562496/86758134-7bb4-4a7e-8a3c-6e847da0e6b5" width="100"/>
 
- Karl Nuyda
+Karl Nuyda
 
-Hello 👋. I'm a London-based Full-stack and Mobile Developer.
-
+Howdy 🤠. 
 
 ### 👨‍💻 About Me
 
 💻 I specialize in 📱 mobile and 🕸️ web.
 
 🌴 I hail from the San Francisco Bay Area but am based in London 🏴󠁧󠁢󠁥󠁮󠁧󠁿.
-
-📄 I create technical instruction content for Native Android.
 
 🚌 I have seven years of sales experience in FinTech and EdTech startups.
 
