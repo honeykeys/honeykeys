@@ -1,7 +1,4 @@
-<div id ="header" align="center">
-<img src ="https://github.com/honeykeys/honeykeys/assets/73562496/86758134-7bb4-4a7e-8a3c-6e847da0e6b5" width="100"/>
-
-Karl Nuyda
+# Karl Nuyda
 
 Software Engineer 💻, Amateur Poet 🖋️, Home Chef 🧑‍🍳, Ex-Salesperson 💼 
 
