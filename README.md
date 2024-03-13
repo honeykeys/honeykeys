@@ -3,7 +3,7 @@
 
 Karl Nuyda
 
-Howdy 🤠. Thank you for reviewing my profile. 
+Just a Friendly Neighborhood Software Engineer 
 
 ### 👨‍💻 About Me
 
