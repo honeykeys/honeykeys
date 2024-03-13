@@ -3,7 +3,7 @@
 
 Karl Nuyda
 
-Howdy 🤠. 
+Howdy 🤠. Thank you for reviewing my profile. 
 
 ### 👨‍💻 About Me
 
