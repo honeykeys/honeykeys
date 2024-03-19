@@ -1,10 +1,12 @@
 # Karl Nuyda
 
-Software Engineer 💻, Amateur Poet 🖋️, Home Chef 🧑‍🍳, Ex-Salesperson 💼 
+Software Engineer 💻 | Amateur Poet 🖋️ | Home Chef 🧑‍🍳 | Ex-Salesperson 💼 
+
+[My LinkedIn](https://www.linkedin.com/in/roykarlo/) | [My Dev.To](https://dev.to/honeykeys) | [My Portfolio Website](honeykeys.dev)
 
 ### 👨‍💻 About Me
 
-Here is an article I wrote about my journey as a developer. 
+Thanks for visiting my GitHub page! Here are some of my personal and academic projects.
 
 
 
