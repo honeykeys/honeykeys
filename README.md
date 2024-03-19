@@ -1,4 +1,4 @@
-[My LinkedIn](https://www.linkedin.com/in/roykarlo/) | [My Dev.To](https://dev.to/honeykeys) | [My Portfolio Website](honeykeys.dev)
+[My LinkedIn](https://www.linkedin.com/in/roykarlo/) | [My Dev.To](https://dev.to/honeykeys)
 ---
 ### 👨‍💻 About Me
 
@@ -21,8 +21,6 @@ Check out my personal projects and technical articles below.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
----
-### 💻 Projects
 ---
 ### 📘 Articles
 [Why I Switched My Personal Computer to Linux](https://dev.to/honeykeys/why-i-switched-my-personal-computer-to-linux-17d4)
