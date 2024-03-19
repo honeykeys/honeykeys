@@ -10,7 +10,10 @@ I put myself through undergraduate and graduate school in technology sales befor
 
 Check out my personal projects and technical articles below.
 
-### 🖱️ Skills
+### 🖱️ Languages & Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+</div>
 
 ### 💻 Projects
 
