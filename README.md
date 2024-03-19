@@ -1,5 +1,3 @@
-# Karl Nuyda
-
 [My LinkedIn](https://www.linkedin.com/in/roykarlo/) | [My Dev.To](https://dev.to/honeykeys) | [My Portfolio Website](honeykeys.dev)
 ---
 ### 👨‍💻 About Me
