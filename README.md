@@ -30,7 +30,8 @@ Check out my personal projects and technical articles below.
 
 [Why I Switched My Personal Computer to Linux](https://dev.to/honeykeys/why-i-switched-my-personal-computer-to-linux-17d4)
 
-### 🔗 Links
+### 🔥 My Stats
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
