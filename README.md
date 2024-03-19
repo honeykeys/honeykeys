@@ -27,7 +27,6 @@ Check out my personal projects and technical articles below.
 ### 💻 Projects
 ---
 ### 📘 Articles
-
 [Why I Switched My Personal Computer to Linux](https://dev.to/honeykeys/why-i-switched-my-personal-computer-to-linux-17d4)
 ---
 ### 🔥 My Stats
