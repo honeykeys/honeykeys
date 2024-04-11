@@ -2,7 +2,7 @@
 ---
 ### 👨‍💻 About Me
 
-Thanks for visiting my GitHub page! I am an aspiring software engineer who is passionate about open-source technology, especially Android & Linux. 
+Thanks for visiting my GitHub page! I am an aspiring data engineer with a passion for open-source technology.
 
 I put myself through undergraduate and graduate school in technology sales before pursuing my passion in Software Engineering. 
 
